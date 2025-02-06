@@ -1,7 +1,7 @@
 # Global-Superstore Sales Analysis
 The data from the GLOBAL SALE reveals comprehensive insights into the sales performance of various product categories, customer segmants and discounts over time.
 
-Purpose and Features  
+# Purpose and Features  
 This project provides a comprehensive analysis of sales, profit, and customer trends for a fictional global retail business. The primary objectives include:  
 - Identifying sales trends across regions, product categories, and time periods.  
 - Highlighting key performance indicators (KPIs) like profit margins and customer segmentation.  
