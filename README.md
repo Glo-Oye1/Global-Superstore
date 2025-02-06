@@ -14,7 +14,7 @@ This project provides a comprehensive analysis of sales, profit, and customer tr
 - Dashboard with key business metrics  
 
 ## Instructions for Usage  
-1. **Open the Power Bi file**: `GLOBAL SUPERSTORE.pbix`  
+1. **Open the Power Bi file**: GLOBAL SUPERSTORE.pbix  
 2. **Explore the dashboards:**  
    - Main dashboard for business insights on profitability and customer segment 
    - Discount of impact and kpi views
