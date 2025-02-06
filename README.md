@@ -22,9 +22,9 @@ This project provides a comprehensive analysis of sales, profit, and customer tr
 4. **Review Visualizations:** Charts display important insights  
 
 ## Tools and Techniques Used
-Power BI Desktop:
-Data Modeling: Relationships between sales, product, and customer data
-DAX Functions: Custom measures for KPIs like profit margin and sales trends
-Visualizations: Bar charts, pie chart, line graphs, and KPI indicators
-Data Cleaning: Power Query for transformation and preparation
-Dashboards: Interactive dashboards with slicers and drill-through options 
+- Power BI Desktop:
+- Data Modeling: Relationships between sales, product, and customer data
+- DAX Functions: Custom measures for KPIs like profit margin and sales trends
+- Visualizations: Bar charts, pie chart, line graphs, and KPI indicators
+- Data Cleaning: Power Query for transformation and preparation
+- Dashboards: Interactive dashboards with slicers and drill-through options 
