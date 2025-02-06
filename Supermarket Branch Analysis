@@ -1,0 +1,23 @@
+# Supermarket Store Branches Statistical Analysis  
+
+## Purpose and Features  
+This project analyzes key sales and performance metrics of multiple supermarket branches to derive actionable insights. The primary objectives include:  
+- Understanding sales performance across branches  
+- Identifying trends and anomalies in available items and sales volume  
+- Highlighting branches with below-average sales despite high coverage areas  
+- Providing visual summaries to support data-driven decision-making  
+
+## Key Features  
+- Branch-level sales analysis  
+- Sales comparison by item availability and store size  
+- Performance metrics visualization using dynamic dashboards  
+- Data-driven insights for strategic decision-making  
+
+## Tools and Techniques Used  
+- **Power BI:**  
+   - **Data Modeling:** Creating relationships between datasets to ensure accurate analysis  
+   - **Power Query:** Data cleaning and transformation  
+   - **DAX Functions:** Custom measures for calculating average sales, performance comparisons, and KPIs  
+   - **Visualizations:** Bar charts, scatter plots, and KPI cards, for interactive data exploration  
+   - **Dashboards:** Interactive dashboards for better insights  
+   - **Data Analysis:** Identifying sales gaps, patterns, and outliers  
