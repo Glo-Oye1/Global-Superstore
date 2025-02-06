@@ -7,13 +7,13 @@ This project provides a comprehensive analysis of sales, profit, and customer tr
 - Highlighting key performance indicators (KPIs) like profit margins and customer segmentation.  
 - Providing actionable insights to optimize sales strategy and improve operational efficiency.  
 
-## Key Features  
+# Key Features  
 - Sales and profit analysis by region and product category  
 - Year-over-year trend visualization  
 - Customer segmentation insights  
 - Dashboard with key business metrics  
 
-## Instructions for Usage  
+# Instructions for Usage  
 1. **Open the Power Bi file**: `GLOBAL SUPERSTORE.pbix`  
 2. **Explore the dashboards:**  
    - Main dashboard for business insights on profitability and customer segment 
@@ -21,7 +21,7 @@ This project provides a comprehensive analysis of sales, profit, and customer tr
 3. **Interact with filters:** Use slicers to filter data by year, category, order priority or region  
 4. **Review Visualizations:** Charts display important insights  
 
-## Tools and Techniques Used
+# Tools and Techniques Used
 Power BI Desktop:
 Data Modeling: Relationships between sales, product, and customer data
 DAX Functions: Custom measures for KPIs like profit margin and sales trends
